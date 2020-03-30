@@ -1,13 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92756d82-937b-4873-bf5b-6af2ab19d4bc" name="Default Changelist" comment="" />
+    <list default="true" id="92756d82-937b-4873-bf5b-6af2ab19d4bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/Myposts/MyPosts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/Myposts/MyPosts.modules.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/Myposts/Post/Post.modules.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.modules.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sait/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sait/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sait/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sait/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sait/Technologies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sait/footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sait/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sait/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sait/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sait/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sait/setupTests.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupnpm">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
   <component name="ProjectId" id="1ZJagTCK6PYmkooad7bxLNkniBd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,8 +49,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile/MyPosts/Post" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -27,8 +62,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Program Files\IT\project\arsen\src" />
-      <recent name="C:\Program Files\IT\project\arsen" />
+      <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components\Profile\MyPosts\Post" />
+      <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components\Profile\MyPosts" />
+      <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components" />
+      <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components\Dialogs" />
+      <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components" />
+      <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components\Profile\MyPosts" />
+      <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components\Profile\MyPosts\Post" />
+      <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components\Profile" />
+      <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components\Header" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -65,6 +110,23 @@
       <workItem from="1584815727951" duration="280000" />
       <workItem from="1584816700604" duration="288000" />
       <workItem from="1584819514164" duration="1223000" />
+      <workItem from="1584994890388" duration="832000" />
+      <workItem from="1585036982360" duration="4506000" />
+      <workItem from="1585043581459" duration="1216000" />
+      <workItem from="1585048905717" duration="3848000" />
+      <workItem from="1585055934474" duration="11500000" />
+      <workItem from="1585073095040" duration="12674000" />
+      <workItem from="1585123607594" duration="4139000" />
+      <workItem from="1585230304250" duration="9688000" />
+      <workItem from="1585242848156" duration="1579000" />
+      <workItem from="1585244776649" duration="1752000" />
+      <workItem from="1585246600781" duration="7664000" />
+      <workItem from="1585296460184" duration="17117000" />
+      <workItem from="1585387097149" duration="13053000" />
+      <workItem from="1585462079035" duration="19343000" />
+      <workItem from="1585557677593" duration="2655000" />
+      <workItem from="1585563312562" duration="5157000" />
+      <workItem from="1585573071023" duration="953000" />
     </task>
     <servers />
   </component>
@@ -76,17 +138,41 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584618815305" />
+    <state x="476" y="252" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585394253648">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="252" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585394253648" />
     <state x="333" y="173" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584561845180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="333" y="173" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584561845180" />
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1585243330725">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585243330725" />
+    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585246221192">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1585246221192" />
+    <state x="0" y="205" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585410987151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="205" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1585410987151" />
+    <state x="586" y="311" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1585465451649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="586" y="311" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1366.728@0.0.1366.728" timestamp="1585465451649" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1585085630379">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585085630379" />
     <state x="742" y="450" key="save.project.as.template.dialog" timestamp="1584562175336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="742" y="450" key="save.project.as.template.dialog/0.0.1366.728@0.0.1366.728" timestamp="1584562175336" />
-    <state x="483" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584563643082">
+    <state x="483" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585339176613">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="483" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584563643082" />
+    <state x="483" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585339176613" />
   </component>
 </project>

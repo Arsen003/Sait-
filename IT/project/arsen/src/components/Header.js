@@ -1,8 +1,7 @@
 import React from "react";
-import Technologies from "./Technologies";
 
 const Header =() => {
-    return (
+    return(
         <div>
             <a href="#S">Home</a>
             <a href="#S"> Feed</a>

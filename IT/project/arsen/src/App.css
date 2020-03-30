@@ -1,0 +1,69 @@
+.app-wrapper {
+margin: 80px ;
+display: grid;
+width: 1400px;
+grid-template-areas:
+    "h h" "n c";
+
+ grid-template-rows: 116px 1fr;
+ grid-template-columns:3fr 11fr ;
+ grid-gap: 12px;
+
+}
+
+.header {
+    width: 1450px;
+    grid-area: h;
+    background-color: limegreen;
+}
+
+.header img{
+width: 88px;
+background-color: limegreen;
+}
+
+
+.item {
+  display: flex;
+  align-items: flex-end;
+ color: gray;
+}
+
+.item img{
+ width: 5rem;
+ height: 5rem;
+ border-radius: 50%;
+ display: block;
+
+}
+
+.nav {
+    width: 150px;
+    grid-area: n;
+    background-color: limegreen;
+}
+
+.content{
+ width: 1290px;
+ grid-area:  c;
+ background-color: whitesmoke;
+}
+
+.post{
+   color: gold;
+}
+.nav{
+  color: white;
+ }
+
+
+.span like{
+  width: 10rem;
+
+}
+
+.app-wrapper-content{
+   grid-area: c;
+   background-color: cornflowerblue;
+
+}

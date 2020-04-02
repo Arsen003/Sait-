@@ -5,8 +5,10 @@
 }
 
 .item{
+    width: 50px;
     color: white;
 }
-.item.active{
+
+.post{
     color: gold;
 }

@@ -2,35 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92756d82-937b-4873-bf5b-6af2ab19d4bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/Myposts/MyPosts.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/Myposts/MyPosts.modules.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/Myposts/Post/Post.modules.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.modules.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/Myposts/MyPosts.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/Myposts/Post/Post.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sait/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sait/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sait/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sait/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sait/Technologies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sait/footer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sait/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sait/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sait/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sait/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sait/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Myposts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Myposts/MyPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Myposts/MyPosts.modules.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Myposts/Post/Post.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Myposts/Post/Post.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Myposts/Post/Post.modules.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.modules.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="packagejson">
+      <favorite_root url="file://$PROJECT_DIR$/packagejson" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -41,31 +45,36 @@
     </layout>
   </component>
   <component name="ProjectId" id="1ZJagTCK6PYmkooad7bxLNkniBd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile/MyPosts/Post" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Dialogs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest/node_modules/jest-cli" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components\Dialogs" />
       <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components\Profile\MyPosts\Post" />
       <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components\Profile\MyPosts" />
       <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components" />
-      <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components\Dialogs" />
       <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -75,6 +84,48 @@
       <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components\Profile" />
       <recent name="C:\Users\SmartCity\Desktop\Sait-\IT\project\arsen\src\components\Header" />
     </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest/node_modules/jest-cli" />
+      <working-dir value="$PROJECT_DIR$/src" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/App.test.js" />
+      <test-names>
+        <test-name value="renders learn react link" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="eject" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/react-kabzda/libraies/arsen/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="eject" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/react-kabzda/libraies/arsen/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.eject" />
+        <item itemvalue="Jest.renders learn react link" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -126,30 +177,109 @@
       <workItem from="1585462079035" duration="19343000" />
       <workItem from="1585557677593" duration="2655000" />
       <workItem from="1585563312562" duration="5157000" />
-      <workItem from="1585573071023" duration="953000" />
+      <workItem from="1585573071023" duration="1731000" />
+      <workItem from="1585585271657" duration="6796000" />
+      <workItem from="1585641490541" duration="4462000" />
+      <workItem from="1585665348377" duration="1605000" />
+      <workItem from="1585726752868" duration="10766000" />
+      <workItem from="1585748739786" duration="1115000" />
+      <workItem from="1585749952948" duration="218000" />
+      <workItem from="1585758145131" duration="1873000" />
+      <workItem from="1585760901196" duration="645000" />
+      <workItem from="1585809137197" duration="88000" />
+      <workItem from="1585813159430" duration="6973000" />
+      <workItem from="1585857570202" duration="778000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584618815305">
+    <state x="0" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585591138950">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584618815305" />
-    <state x="476" y="252" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585394253648">
+    <state x="0" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585591138950" />
+    <state x="476" y="252" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585642622277">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="476" y="252" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585394253648" />
+    <state x="476" y="252" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585642622277" />
     <state x="333" y="173" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584561845180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="333" y="173" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584561845180" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1585243330725">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1585814526592">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585243330725" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585814526592" />
+    <state width="1308" height="203" key="GridCell.Tab.0.bottom" timestamp="1585848841788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585848841788" />
+    <state width="1308" height="203" key="GridCell.Tab.0.center" timestamp="1585848841788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585848841788" />
+    <state width="1308" height="203" key="GridCell.Tab.0.left" timestamp="1585848841787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585848841787" />
+    <state width="1308" height="203" key="GridCell.Tab.0.right" timestamp="1585848841788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585848841788" />
+    <state width="1308" height="203" key="GridCell.Tab.1.bottom" timestamp="1585848841789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585848841789" />
+    <state width="1308" height="203" key="GridCell.Tab.1.center" timestamp="1585848841788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585848841788" />
+    <state width="1308" height="203" key="GridCell.Tab.1.left" timestamp="1585848841788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585848841788" />
+    <state width="1308" height="203" key="GridCell.Tab.1.right" timestamp="1585848841788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585848841788" />
+    <state width="1308" height="203" key="GridCell.Tab.2.bottom" timestamp="1585848841789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585848841789" />
+    <state width="1308" height="203" key="GridCell.Tab.2.center" timestamp="1585848841789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1585848841789" />
+    <state width="1308" height="203" key="GridCell.Tab.2.left" timestamp="1585848841789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1585848841789" />
+    <state width="1308" height="203" key="GridCell.Tab.2.right" timestamp="1585848841789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1585848841789" />
+    <state width="1308" height="203" key="GridCell.Tab.3.bottom" timestamp="1585848841791">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585848841791" />
+    <state width="1308" height="203" key="GridCell.Tab.3.center" timestamp="1585848841790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1585848841790" />
+    <state width="1308" height="203" key="GridCell.Tab.3.left" timestamp="1585848841789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1585848841789" />
+    <state width="1308" height="203" key="GridCell.Tab.3.right" timestamp="1585848841790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="203" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1585848841790" />
     <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585246221192">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -162,17 +292,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="586" y="311" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1366.728@0.0.1366.728" timestamp="1585465451649" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1585085630379">
+    <state x="339" y="162" key="run.anything.popup" timestamp="1585814537616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585085630379" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585814537616" />
     <state x="742" y="450" key="save.project.as.template.dialog" timestamp="1584562175336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="742" y="450" key="save.project.as.template.dialog/0.0.1366.728@0.0.1366.728" timestamp="1584562175336" />
-    <state x="483" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585339176613">
+    <state x="483" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585814105248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="483" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585339176613" />
+    <state x="483" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585814105248" />
   </component>
 </project>
